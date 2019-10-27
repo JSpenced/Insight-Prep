@@ -1,6 +1,6 @@
 ## Insight Whiteboarding and Data Challenges
 
-My Insight repo with the contents listed below:  
+My Insight repo containing a notebook with whiteboarding solutions and the weekly data challenges in each folder:  
 
 1. A notebook that contains the solutions to most the CS whiteboarding questions asked during Insight Toronto Session 19C, as well as, some other miscellaneous questions from Stats and Machine Learning.  
 [Whiteboarding-CS-ML-Stats-Solutions](Whiteboarding-CS-ML-Stats-Solutions.ipynb)
